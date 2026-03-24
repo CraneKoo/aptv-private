@@ -70,23 +70,23 @@ https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiO
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/KBS뉴스.png" tvg-name="KBS뉴스"
 https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc0NTA0NzMzfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=GDYMbJ0vYKBHOUsKnTK6FmH~C8lZAaMHjpG4rkld~Fn2quYct6FCsPHlEy58Lu09wBSP6oFfe0y~65VTR06fSkOkL7TNjnTmAAyNvN9HRg8MRMniP6LZUSqAaLoH6BZrOIMq59n5sEaGqF-ble4KL7OOmek-ZynKHu3AFfIu1eO3Z3VzG9ZXlbC6anOjQClL9q~o9IfXB6HOuXguhpcrtRN8JqKT-59i38TYkrvaeTdUKflLyrCQbElTy4lerzRd2nfLugxHCxHsYm0jj2BTEqwUsEPBWmHWsHWvlvn7O9RFQj4Y0uca6E79Rl2swtLWTfjelphISsPVNQwyDLSJdQ__
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS.png" tvg-name="SBS"
-https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MDIsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImQ4ODg5NzZkLTVjNTEtNDUxYi05OWUwLTZiZTY0NDZlNzBjOCIsImlhdCI6MTc3NDMzNTYwMn0.UdRa9IIpR7uI5TZboSvYRkME-ra2192j7nv9MUM14uI
+https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MDEsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImJkZDYzZjAzLWVhNTctNGIyOS04YTFjLWM3ZDE2NjBhNDJkYSIsImlhdCI6MTc3NDMzOTIwMX0.1G6BhYPbm-Tbh23mKPtjpyu01k61r_npwVRFqtp42zA
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS플러스.png" tvg-name="SBS플러스"
-https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MDUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2MjdkYWQ3Mi0wYTYzLTRhYTctOGVmNS1mNTgzM2EzZjUxYzMiLCJpYXQiOjE3NzQzMzU2MDV9.oUOycRdqDsAM2p2ZVhp6e3tYMLwTKsAsFq3rl0SzgQM
+https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MDQsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2YzNkZTI3Zi1kZGQyLTRiNjEtYmIxZi1iNzZmNjkwODFkNzQiLCJpYXQiOjE3NzQzMzkyMDR9.UVoU0FbQLSxNXb6OJRc4QbW9-Xcuz5T7oiGTbUKPEM8
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS퍼니.png" tvg-name="SBS퍼니"
-https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MTEsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImViMmVkMDFiLTg4MjYtNDY5Yy1hNDc4LTJjYzg2MTQ4YTdmZiIsImlhdCI6MTc3NDMzNTYxMX0.IvE5nMP4Sa5faKwaWwl-JC7INy1x_9kzKGSVG02IoyE
+https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MTEsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjA0NjE2MGFjLTMxYzgtNDJhMy05YWFiLTg1ZDlhYTgwMDA2NCIsImlhdCI6MTc3NDMzOTIxMX0.ebo138Uqer0LEwNQhKYid2L4houjo2gxE1h_VDUWX9s
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS LIFE.png" tvg-name="SBS LIFE"
-https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MTUsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjU2N2Y4ZWVjLTA3YTAtNGZhZS1hNjE0LWViZmI3NjE4NzUyMiIsImlhdCI6MTc3NDMzNTYxNX0.CiB_1jEvVCWtcW8Sv7p_lRXpWv7_QWIFW7Ija23gDiY
+https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MTQsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjM3ZjVlMzA3LTdiM2ItNDU0Ny05MDc3LWQzYjdmMjU5MTQ0YyIsImlhdCI6MTc3NDMzOTIxNH0.e4c0LJwOJE6Vli2PepKrqzRbP2Kmz6MjFDZJlNIqyRc
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS KPOP.png" tvg-name="SBS KPOP"
-https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MjgsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkYWRlZDBiZi1mNjM1LTRlMzctYmM4MS1mNWQxMTk0M2Y3NjEiLCJpYXQiOjE3NzQzMzU2Mjh9.k1ijIqe0_G5YditHe3fBPzOkmJLApYBIDzhhKpvGvpU
+https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MjcsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyNzc2Mzg2ZS1hYjI4LTQyOTUtODY3YS04NGY2YTBkMTQxMmMiLCJpYXQiOjE3NzQzMzkyMjd9.lxReVH1Pczx41bOMc6TJhj_bPcRcLBAnDenKMpKU2Ig
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS골프.png" tvg-name="SBS골프"
-https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MjEsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxZWNhYTJkNC0xM2I4LTQwZmItODgzZS1hNjRiYTZiMDE4YWQiLCJpYXQiOjE3NzQzMzU2MjF9.buAJXmgLnXlqgEUa-aJ4t8j354qLqniYrzlzVegNlJ4
+https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MjEsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI3NWY3MGNkYy05OWMxLTRmNDMtOTY3Zi1iYTQ1ZGFjNTI2MTYiLCJpYXQiOjE3NzQzMzkyMjF9.0piMQTkOTt9OhAoipHeUghjsDPBE0rZRVfINdL1h0bY
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS Golf2.png" tvg-name="SBS Golf2"
-https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MjQsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNDhlNmNmODItOWJkOS00YWYyLWIxZmMtMDcxMzRmNzc4OGVjIiwiaWF0IjoxNzc0MzM1NjI0fQ.53ZjLXtj0oYSN4wRFTDCKZ6nrQ_klxDCRN8c0kbRK6w
+https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MjQsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiOGIzZWFjYjEtNzA1Yy00ODJhLTk3M2YtOTVkY2ZlN2QyMjdiIiwiaWF0IjoxNzc0MzM5MjI0fQ.RoEgNFXjKE-QGhqPihuxFuFC5QLVzgYSV5oTjw2KSW4
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS스포츠.png" tvg-name="SBS스포츠"
 https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzMjg0MTgsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkMWRhYTQzOS0zY2ViLTRmNzctYjc5NC05YjgzMmI4NjZkMDIiLCJpYXQiOjE3NzQzMjEyMTh9.NVxdV8dOqY923etkWicvMCc0kr5TRxjy8r8GVsxeNxA
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/SBS Biz.png" tvg-name="SBS Biz"
-https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDI4MDgsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2OGIzOTRlZS03ZDU0LTRlNjItYjZhYS1mMWNkMTg3NDkwNDIiLCJpYXQiOjE3NzQzMzU2MDh9.2M_hNVuCmv-Y98A7_C4wV7O68zIfXvecANcbwIDpejw
+https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzNDY0MDgsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2MzhhZTBmNy1mMjNmLTQ0MjgtOGIwMy05NjlhZmYzMDljZDciLCJpYXQiOjE3NzQzMzkyMDh9.SqWwIWyfb0gDeN0shfMS4L0hdAo40MEI9Rkcm_sObzM
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/MBC.png" tvg-name="MBC"
 https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=68216013E32A38B45447351E3001454B953E3A05F90D72DF3E808Da7663F3C66F7aC13B538F21F4810403B01E9b8C1B02AEC3ABBDFB618AA8086CDAAE3F258F482F9C0CC4924FA3A9C06C6E7CA841943A0EFD82C0F27B091719608A322EBA96254EF8AC77EB8142C56336A32B2FEBA5050C8B484CEC77400232EABF7167BDB47&v=3
 #EXTINF:-1 group-title="한국-지상파" tvg-logo="https://pjytv.760515.xyz/logo/MBC드라마넷.png" tvg-name="MBC드라마넷"
@@ -154,17 +154,17 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-10 科教.png" tvg-name="CCTV10"
 http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-11 戏曲.png" tvg-name="CCTV11"
-http://125.125.233.70:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://69.30.246.194/live/cctv11.m3u8
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-12 社会与法.png" tvg-name="CCTV12"
-http://125.125.233.70:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-13 新闻.png" tvg-name="CCTV13"
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-14 少儿.png" tvg-name="CCTV14"
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-15 音乐.png" tvg-name="CCTV15"
 http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-16 奥林匹克.png" tvg-name="CCTV16"
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="中国-央视" tvg-logo="https://pjytv.760515.xyz/logo/CCTV-17 农业农村.png" tvg-name="CCTV17"
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="中国-央视" tvg-logo="" tvg-name="CCTV4K"
